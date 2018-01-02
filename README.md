@@ -1,2 +1,2 @@
 # jpeg2pdf
-Python script to convert jpef files to pdf
+Convert jpef files to pdf
